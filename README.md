@@ -7,7 +7,7 @@ It is uploaded  only the code for **Germany**, but the same methodology has been
 ## Directory Structure
 
 - `matrix_day`: contains the script used for the computation of the distances matrix and the files with the results for each Country.
-- `matrix_year`: 
+- `matrix_year`: contains the files with the distances matrices computed using the yearly kilometers instead of the daily kilometers.
 - `datasets/`: Contains the processed and encoded datasets.
 - `similarity/`: contains the script used for the computation of the similarity matrix and the files with the results for each Country.
 - `Dissatisfaction/`: contains the script used for the computation of dissatisfaction parameter and the files with the results for each Country.
