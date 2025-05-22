@@ -10,7 +10,7 @@ It is uploaded  only the code for **Germany**, but the same methodology has been
 - `datasets/`: Contains the processed and encoded datasets.
 - `similarity/`: contains the script used for the computation of the similarity matrix and the files with the results for each Country.
 - `Dissatisfaction/`: contains the script used for the computation of dissatisfaction parameter and the files with the results for each Country.
-- 'populations.ipynb': Notebook containing the code for constructing the populations using K-means clustering.
+- `populations.ipynb`: Notebook containing the code for constructing the populations using K-means clustering.
 
 ## Data Sources
 
